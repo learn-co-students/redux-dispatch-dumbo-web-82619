@@ -198,7 +198,7 @@ function dispatch(action){
 render()
 ```
 
-If you copy the code above into `js/reducer.js` and open `index.html` in 
+If you copy the code above into `js/reducer.js` and open `index.html` in
 your browser, in the console, you can confirm everything is working by running `dispatch({type: 'INCREASE_COUNT'})` and watch as the displayed
 count increases!
 
